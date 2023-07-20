@@ -1,6 +1,6 @@
 # Note Taking App
 
-This is a note-taking application created with Node.js and Express.js. It allows users to create, read, and delete notes, which are stored in a JSON file on the backend.
+This is a note taking application that is built using Node.js and Express.js. It allows users to create, read, update, and delete notes. 
 
 ![Note Taking App](./Assets/11-express-homework-demo-01.png)
 
