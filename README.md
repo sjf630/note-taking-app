@@ -12,7 +12,7 @@ This is a note taking application that is built using Node.js and Express.js. It
 
 ## Usage
 
-Navigate to `localhost:3001` in your browser, click on the 'Get Started' button and start creating, reading, and deleting notes!
+Navigate to `localhost:3002` in your browser, and start creating, reading, and deleting notes!
 
 ## Questions
 
