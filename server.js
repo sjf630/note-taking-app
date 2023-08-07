@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
-const uniqid = require('uniqid')
+const uniqid = require('uniqid');
 
 const app = express();
 const PORT = 3002;
